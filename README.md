@@ -81,3 +81,23 @@ Cet atelier, **noté sur 20 points**, est évalué sur la base du barème suivan
 - Degré d'automatisation du projet (utilisation de Makefile ? script ? ...) (4 points)
 - Qualité du Readme (lisibilité, erreur, ...) (4 points)
 - Processus travail (quantité de commits, cohérence globale, interventions externes, ...) (4 points) 
+
+
+### Mes URLs d'API (Objectif final)
+
+Voici les URLs permettant de piloter mon instance EC2 (ID: i-303d76271a94b4012) via API Gateway et Lambda :
+
+Démarrer : https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/chmod +x deploy_api.sh
+./deploy_api.sh/prod/_user_request_/ec2?action=start
+
+Stopper : https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/chmod +x deploy_api.sh
+./deploy_api.sh/prod/_user_request_/ec2?action=stop
+
+Statut : https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/chmod +x deploy_api.sh
+./deploy_api.sh/prod/_user_request_/ec2?action=status
+
+
+**Processus :**
+1. Création de l'instance EC2 sur l'émulateur LocalStack.
+2. Déploiement d'une fonction Lambda en Python capable d'interagir avec Boto3.
+3. Création et automatisation d'une API Gateway pour lier des requêtes HTTP GET à la fonction Lambda.
