@@ -88,9 +88,11 @@ Cet atelier, **noté sur 20 points**, est évalué sur la base du barème suivan
 Voici les URLs permettant de piloter mon instance EC2 (ID: i-303d76271a94b4012) via API Gateway et Lambda :
 
 
-* **Démarrer :** https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/sbqpq4unqy/prod/_user_request_/ec2?action=start
-* **Stopper :** https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/sbqpq4unqy/prod/_user_request_/ec2?action=stop
-* **Statut :** https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/sbqpq4unqy/prod/_user_request_/ec2?action=status
+Démarrer : https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/npnsvopcxu/prod/_user_request_/ec2?action=start
+
+Stopper : https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/npnsvopcxu/prod/_user_request_/ec2?action=stop
+
+Statut : https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/npnsvopcxu/prod/_user_request_/ec2?action=status
 
 <img width="1267" height="348" alt="image" src="https://github.com/user-attachments/assets/2b9826f7-7e8b-4517-a39c-9ae36d0a00ad" />
 
