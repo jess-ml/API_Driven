@@ -92,6 +92,13 @@ Voici les URLs permettant de piloter mon instance EC2 (ID: i-303d76271a94b4012) 
 * **Stopper :** https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/sbqpq4unqy/prod/_user_request_/ec2?action=stop
 * **Statut :** https://fantastic-space-palm-tree-r44gp5ww4696fxv75-4566.app.github.dev/restapis/sbqpq4unqy/prod/_user_request_/ec2?action=status
 
+<img width="1267" height="348" alt="image" src="https://github.com/user-attachments/assets/2b9826f7-7e8b-4517-a39c-9ae36d0a00ad" />
+
+<img width="1655" height="417" alt="image" src="https://github.com/user-attachments/assets/ed86dc5c-9595-4bf0-b847-891023668f6c" />
+
+<img width="1751" height="361" alt="image" src="https://github.com/user-attachments/assets/a3278fd4-f217-4e46-aca3-97181ded0c7d" />
+
+
 
 
 **Processus :**
